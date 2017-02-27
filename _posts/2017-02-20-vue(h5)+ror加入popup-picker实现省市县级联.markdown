@@ -2,7 +2,7 @@
 layout: post
 title:  "[vue] vue(h5)+ror加入popup-picker实现省市县级联"
 date:   2017-02-20 09:14:49 +0800
-category: git
+category: vue
 ---
 
 
