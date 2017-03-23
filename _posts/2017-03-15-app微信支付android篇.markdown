@@ -132,20 +132,6 @@ h5上需要提供一个javascript方法 ：
 
 		public class WeiXinPayBean implements Serializable {
 
-
-				/**
-				 * appId : wxc77dd9897931589b
-				 * partnerid : 1342877701
-				 * prepay_id : wx2016080919034591f53f8d680076907344
-				 * package : SignUtils=WXPay
-				 * timeStamp : 1470740626
-				 * nonceStr : af05c281534c4f67a6c225cb3ef8abe2
-				 * return_code : SUCCESS
-				 * return_msg : OK
-				 * sign : 57B0964D3BC71CF868E021D195CB8F60
-				 * err_code_des
-				 */
-
 				private String appId;
 				private String partnerid;
 				private String prepay_id;
